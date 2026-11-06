@@ -10,7 +10,7 @@ Screenshots
 Home	Scrap Lens	Live tracking	Sign in
 Website: home	Website: sell with a photo
 Features
-📷 Scrap Lens: AI that reads your photo
+ Scrap Lens: AI that reads your photo
 The scanner works like a visual search app. It goes through four steps, and you watch each one happen:
 
 On device: TF.js COCO-SSD draws boxes around everyday objects in under a second.
