@@ -1,4 +1,6 @@
-The problem(ApnaScrap - https://apnascrap.netlify.app)
+
+(ApnaScrap - https://apnascrap.netlify.app)
+The Problem
 India throws away crores of rupees of recyclable scrap every month. Selling raddi still means waiting for a kabadiwala who may never come. The seller can't check his scale, doesn't know what a fair rate is, and old gadgets get paid for by weight even when they still work. Kabadiwalas, for their part, lose hours roaming lanes looking for work.
 
 Apna Scrap turns this into an Uber-style marketplace:
